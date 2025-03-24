@@ -64,6 +64,11 @@ https://github.com/kuthyarcs/assemblyC/blob/main/13.asm - BIC ORR
  11. Demonstrate the handling of divide by zero, Invalid Operation and Overflow exceptions in ARM.   
 
  **Practice Programs (outside syllabus)**
- ALP for LPC2148 ARM7: SUM OF FIRST 10 INTEGER NUMBERS - Abhishek S. Rao https://www.youtube.com/watch?v=gQfOwiuIhek&t=491s
-https://github.com/kuthyarcs/assemblyC/blob/main/18.asm
-https://github.com/kuthyarcs/assemblyC/blob/main/19.asm
+ ALP for LPC2148 ARM7: SUM OF FIRST 10 INTEGER NUMBERS - Abhishek S. Rao  https://www.youtube.com/watch?v=gQfOwiuIhek&t=491s   
+https://github.com/kuthyarcs/assemblyC/blob/main/18.asm   
+https://github.com/kuthyarcs/assemblyC/blob/main/19.asm   
+
+FIND SMALLEST & LARGEST NUMBER FROM AN ARRAY OF 32-BIT NUMBER - Abhishek S. Rao   
+https://www.youtube.com/watch?v=voElsmXf3tw   
+ https://github.com/kuthyarcs/assemblyC/blob/main/20.asm   
+ https://github.com/kuthyarcs/assemblyC/blob/main/21.asm    
