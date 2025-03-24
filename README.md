@@ -36,6 +36,11 @@ https://github.com/kuthyarcs/assemblyC/blob/main/12.c
 **Lab Program 10** - Demonstrate enabling and disabling of Interrupts in ARM    
 https://github.com/kuthyarcs/assemblyC/blob/main/13.asm - BIC ORR 
 
+
+**Lab Program 11** - Divide by zero, Invalid Operation and Overflow exceptions in ARM   
+
+
+
 **Course Objectives:**  
 
  **CLO1**: Understand the fundamentals of ARM-based systems and basic architecture of CISC and RISC.   
@@ -57,3 +62,8 @@ https://github.com/kuthyarcs/assemblyC/blob/main/13.asm - BIC ORR
  9. Simulate a program in C for an ARM microcontroller to demonstrate case  conversion of characters from upper to lowercase and lower to uppercase.   
  10. Demonstrate enabling and disabling of Interrupts in  ARM.   
  11. Demonstrate the handling of divide by zero, Invalid Operation and Overflow exceptions in ARM.   
+
+ **Practice Programs (outside syllabus)**
+ ALP for LPC2148 ARM7: SUM OF FIRST 10 INTEGER NUMBERS - Abhishek S. Rao https://www.youtube.com/watch?v=gQfOwiuIhek&t=491s
+https://github.com/kuthyarcs/assemblyC/blob/main/18.asm
+https://github.com/kuthyarcs/assemblyC/blob/main/19.asm
