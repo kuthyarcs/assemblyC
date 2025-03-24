@@ -36,13 +36,13 @@ https://github.com/kuthyarcs/assemblyC/blob/main/12.c
 **Lab Program 10** - Demonstrate enabling and disabling of Interrupts in ARM    
 https://github.com/kuthyarcs/assemblyC/blob/main/13.asm - BIC ORR 
 
-**CourseObjectives:**  
+**Course Objectives:**  
 
- **CLO1**:Understand the fundamentals of ARM-based systems and basic architecture of CISC and RISC.
- **CLO2**:Familiarize with ARM programming modules along with registers,CPSR and Flags.
- **CLO3**:Develop ALP using various instructions to program the ARM controller.   
- **CLO4**:Understand the Exceptions and Interrupt handling mechanism in Microcontrollers.   
- **CLO5**:Discuss the ARM Firmware packages and Cache memory policies
+ **CLO1**: Understand the fundamentals of ARM-based systems and basic architecture of CISC and RISC.   
+ **CLO2**: Familiarize with ARM programming modules along with registers,CPSR and Flags.   
+ **CLO3**: Develop ALP using various instructions to program the ARM controller.   
+ **CLO4**: Understand the Exceptions and Interrupt handling mechanism in Microcontrollers.   
+ **CLO5**: Discuss the ARM Firmware packages and Cache memory policies   
 
 
  **Experiments**   
