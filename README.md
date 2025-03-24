@@ -74,10 +74,15 @@ https://www.youtube.com/watch?v=voElsmXf3tw
  https://github.com/kuthyarcs/assemblyC/blob/main/21.asm    
 
 
-MULTIPLY TWO 16-BIT NUMBERS IN LPC2148 ARM7 - Abhishek S. Rao
+MULTIPLY TWO 16-BIT NUMBERS IN LPC2148 ARM7 - Abhishek S. Rao   
 https://www.youtube.com/watch?v=8dKdS7GJxYc   
 https://github.com/kuthyarcs/assemblyC/blob/main/22.asm    
 
-FIND FACTORIALOF A NUMBER BASED ON LPC2148 ARM7 - Abhishek S. Rao
+FIND FACTORIAL OF A NUMBER BASED ON LPC2148 ARM7 - Abhishek S. Rao   
 https://www.youtube.com/watch?v=xSVk11Xw9DA    
 https://github.com/kuthyarcs/assemblyC/blob/main/23.asm    
+
+
+ADD AN ARRAY OF 16 BIT NUMBER & STORE THE 32-BIT RESULT IN INTERNAL RAM     
+https://www.youtube.com/watch?v=E5Tm5pkWJV4     
+https://github.com/kuthyarcs/assemblyC/blob/main/24.asm    
