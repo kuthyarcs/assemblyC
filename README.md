@@ -86,3 +86,8 @@ https://github.com/kuthyarcs/assemblyC/blob/main/23.asm
 ADD AN ARRAY OF 16 BIT NUMBER & STORE THE 32-BIT RESULT IN INTERNAL RAM     
 https://www.youtube.com/watch?v=E5Tm5pkWJV4     
 https://github.com/kuthyarcs/assemblyC/blob/main/24.asm    
+
+
+ARRANGE A SERIES OF 32-BIT NUMBERS IN ASCENDING AND DESCENDING ORDER   
+https://www.youtube.com/watch?v=QwcYQtC78tE   
+https://github.com/kuthyarcs/assemblyC/blob/main/25.asm   
