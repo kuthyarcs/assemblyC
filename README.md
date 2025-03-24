@@ -63,7 +63,7 @@ https://github.com/kuthyarcs/assemblyC/blob/main/13.asm - BIC ORR
  10. Demonstrate enabling and disabling of Interrupts in  ARM.   
  11. Demonstrate the handling of divide by zero, Invalid Operation and Overflow exceptions in ARM.   
 
- **Practice Programs (outside syllabus)**
+ **Practice Programs (outside syllabus)**   
  ALP for LPC2148 ARM7: SUM OF FIRST 10 INTEGER NUMBERS - Abhishek S. Rao  https://www.youtube.com/watch?v=gQfOwiuIhek&t=491s   
 https://github.com/kuthyarcs/assemblyC/blob/main/18.asm   
 https://github.com/kuthyarcs/assemblyC/blob/main/19.asm   
@@ -72,3 +72,12 @@ FIND SMALLEST & LARGEST NUMBER FROM AN ARRAY OF 32-BIT NUMBER - Abhishek S. Rao
 https://www.youtube.com/watch?v=voElsmXf3tw   
  https://github.com/kuthyarcs/assemblyC/blob/main/20.asm   
  https://github.com/kuthyarcs/assemblyC/blob/main/21.asm    
+
+
+MULTIPLY TWO 16-BIT NUMBERS IN LPC2148 ARM7 - Abhishek S. Rao
+https://www.youtube.com/watch?v=8dKdS7GJxYc   
+https://github.com/kuthyarcs/assemblyC/blob/main/22.asm    
+
+FIND FACTORIALOF A NUMBER BASED ON LPC2148 ARM7 - Abhishek S. Rao
+https://www.youtube.com/watch?v=xSVk11Xw9DA    
+https://github.com/kuthyarcs/assemblyC/blob/main/23.asm    
